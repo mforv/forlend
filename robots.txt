@@ -1,0 +1,7 @@
+User-agent: Twitterbot
+Disallow: *
+Allow: /static/img/
+
+User-Agent: *
+Disallow: /static/
+Host: https://mforv.github.io/forlend
