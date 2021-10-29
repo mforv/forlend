@@ -161,7 +161,7 @@ blockquote p {
 }
 
 code {
-    color: var(--aclr);
+    color: var(--hclr);
     font-family: 'Cousine', monospace;
     background-color: var(--bclr);
     padding: 0.1rem;
